@@ -7,7 +7,6 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyDJHs3e1zwPGjGy1ZUvtLsoPEp86OYWcoc",
     authDomain: "fir-integration-2dfea.firebaseapp.com",
     projectId: "fir-integration-2dfea",
     storageBucket: "fir-integration-2dfea.appspot.com",
